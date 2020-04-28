@@ -89,7 +89,6 @@ pyjsparser==2.7.1
 pylint==2.4.4
 pymongo==3.7.2
 pyparsing==2.4.6
-pypiwin32==223
 PyPrind==2.11.2
 pyrsistent==0.15.6
 python-dateutil==2.6.1
