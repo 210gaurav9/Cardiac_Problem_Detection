@@ -12,5 +12,6 @@
 9.Alchohol (Yes or No)\
 10.Lifestyle (active or not)\
 and tries to output weather the person is having any chances of getting a cardiac Disease.
-### The evaluation metric which is taken into account is **Recall** and F1 Score.
+### The evaluation metric which is taken into account is _Recall_ and _F1_ _Score_,
+### because if we consider the _medical field_ , we would want as few FN (False Negetives) as possible and therefore ensuring that the patients who are having any disease are not sent back without being treated.
 <img src="images/Screenshot (156).png">
